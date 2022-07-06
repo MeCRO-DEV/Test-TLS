@@ -16,6 +16,8 @@ It will list all supported verisons on the target and the handshake detail for e
 
 Usage: Test-TLS.ps1 SERVER_NAME PORT_NUMBER
 
+To get the best result, please run the script on the latest Powershell Core. Windows Powershell will give you less information.
+
 Screenshots:
 
 ![image](https://user-images.githubusercontent.com/57880343/177470644-960a8afc-60a2-466f-862c-7f6a36256391.png)
